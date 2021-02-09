@@ -1,0 +1,2 @@
+# myapp
+introduction to django
